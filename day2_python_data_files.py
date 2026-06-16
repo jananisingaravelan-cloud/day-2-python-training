@@ -143,3 +143,38 @@ try:
 
 except FileNotFoundError:
     print("cleaned.csv file not found")
+
+# -----------------------------------------
+OUTPUT :
+# -----------------------------------------
+
+=== EXERCISE 1 ===
+LIST COMPREHENSION: [2, 4, 6, 8, 10]
+
+ === EXERCISE 2 ===
+DICTIONARY COMPREHENSION: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+
+ === EXERCISE 3 ===
+SORTED VALUES: [('b', 2), ('a', 5), ('c', 6), ('d', 8)]
+
+ === EXERCISE 4 ===
+UPPER WORDS: ['WATERMELON', 'LEMON', 'CHERRY', 'BERRY']
+
+ === EXERCISE 5 ===
+USING FILTER: ['giraffe', 'crocodile', 'elephant']
+
+ === EXERCISE 6 ===
+Lines: 4
+Words: 4
+
+ === EXERCISE 7 ===
+Enter Number: 200
+0.5
+Program Finished
+
+ === MAIN TASK - CSV CLEANING ===
+CSV Cleaned Successfully
+
+ === EXERCISE 8 ===
+['eve', '28', 'bangalore', '70000']
+['frank', '33', 'pune', '55000']
